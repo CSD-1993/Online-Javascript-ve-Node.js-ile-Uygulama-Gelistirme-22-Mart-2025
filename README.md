@@ -1,4 +1,4 @@
-# Online-Javascript-ve-Node.js-ile-Uygulama-Gelistirme---14-Aralik-2024
+# Online-Javascript-ve-Node.js-ile-Uygulama-Gelistirme-14-Aralik-2024
 
 Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
 + Kurs __14 Aralık 2024 Cumartesi__ günü başlayacaktır.
