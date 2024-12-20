@@ -5,7 +5,7 @@
 
 
 ## Ön Koşul
-
+Daha önce herhangi bir programlama dilinde uygulamalı çalışma yapmış olmak veya C ve Sistem Programcıları Derneği’nin açmış olduğu Programlamaya Giriş kursu başarıyla bitirmiş olmak.
 
 
 ## Eğitim Süresi
