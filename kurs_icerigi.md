@@ -86,4 +86,4 @@ Bu bölümde Typescript programlama dili Javascript programlama dili ile benzerl
 ## Node.js Uygulamalarının Debug Edilmesi.
 
 # Kursa Kayıt
-[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]([https://us02web.zoom.us/meeting/register/tZAvc-6urDgrH9J792JwGdEMeNtOlqsV44Iy#/registration)]
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZAvc-6urDgrH9J792JwGdEMeNtOlqsV44Iy#/registration)
