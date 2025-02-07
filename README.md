@@ -1,7 +1,7 @@
-# Online-Javascript-ve-Node.js-ile-Uygulama-Gelistirme-8-Şubat-2025
+# Online-Javascript-ve-Node.js-ile-Uygulama-Gelistirme-22-Mart-2025
 
 Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
-+ Kurs __8 Şubat 2025 Cumartesi__ günü başlayacaktır.
++ Kurs __22 Mart 2025 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __220__ saattir. Dersler __Cumartesi ve Pazar__ günleri __13:00 - 17:00__ saatleri arasında yapılacaktır.
